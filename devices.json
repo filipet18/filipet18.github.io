@@ -5,14 +5,6 @@
 		"type":"selector",
 		"location": "Kitchen",
 		"index": 0,
-		"mac": "00:00:00:00:00:00"
-	},
-	{
-		"name": "Ventilador",
-		"description":"Controle de velocidades",
-		"type":"velocitySelector",
-		"location": "Bedroom",
-		"index": 0,
-		"mac": "00:00:00:00:00:00"
+		"address": "10:52:1C:69:AF:9A"
 	}
 ]
