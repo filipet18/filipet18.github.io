@@ -3,24 +3,8 @@
 		"name": "Lampada",
 		"description":"Controle de interrupção da iluminação",
 		"type":"selector",
-		"location": "Kitchen",
-		"index": 0,
-		"address": "10:52:1C:69:AF:9A"
-	},
-	{
-		"name": "Lampada",
-		"description":"Controle de interrupção da iluminação",
-		"type":"selector",
-		"location": "Bedroom",
-		"index": 0,
-		"address": "10:52:1C:69:AF:9B"
-	},
-	{
-		"name": "Lampada",
-		"description":"Controle de interrupção da iluminação",
-		"type":"selector",
-		"location": "Living room",
-		"index": 0,
-		"address": "10:52:1C:69:AF:9C"
+		"icon":"bulb",
+		"location": "kitchen",
+		"address": "84:CC:A8:5E:E1:DE"
 	}
 ]
