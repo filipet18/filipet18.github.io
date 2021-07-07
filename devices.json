@@ -6,5 +6,13 @@
 		"icon":"bulb",
 		"location": "kitchen",
 		"address": "84:CC:A8:5E:E1:DE"
+	},
+	{
+		"name": "Lampada",
+		"description":"Controle de interrupção da iluminação",
+		"type":"selector",
+		"icon":"bulb",
+		"location": "bedroom",
+		"address": "AC:67:B2:3B:FC:B2"
 	}
 ]
