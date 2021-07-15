@@ -14,5 +14,9 @@
 		"icon":"bulb",
 		"location": "bedroom",
 		"address": "AC:67:B2:3B:FC:B2"
+	},
+	{
+		"type":"input",
+		"address": "FF:21:04:25:65:26"
 	}
 ]
