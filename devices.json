@@ -1,22 +1,33 @@
 [
 	{
 		"name": "Lampada",
-		"description":"Controle de interrupção da iluminação",
-		"type":"selector",
-		"icon":"bulb",
+		"description": "Controle de interrupção da iluminação",
+		"type": "selector",
+		"icon": "bulb",
 		"location": "kitchen",
-		"address": "10:52:1C:69:AF:9A"
+		"address": "10:52:1C:69:AF:9A",
+		"target": "10:52:1C:69:AF:98"
 	},
 	{
 		"name": "Lampada",
-		"description":"Controle de interrupção da iluminação",
-		"type":"selector",
-		"icon":"bulb",
+		"description": "Controle de interrupção da iluminação",
+		"type": "selector",
+		"icon": "bulb",
 		"location": "bedroom",
-		"address": "AC:67:B2:3B:FC:B2"
+		"address": "AC:67:B2:3B:FC:B2",
+		"target": "AC:67:B2:3B:FC:B0"
 	},
 	{
-		"type":"input",
+		"name": "Lampada",
+		"description": "Controle de interrupção da iluminação",
+		"type": "selector",
+		"icon": "bulb",
+		"location": "living room",
+		"address": "84:CC:A8:5E:E1:DE",
+		"target": "84:CC:A8:5E:E1:DC"
+	},
+	{
+		"type": "input",
 		"address": "FF:21:04:25:65:26"
 	}
 ]
