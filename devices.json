@@ -8,6 +8,15 @@
 		"address": "84:CC:A8:5E:E1:DE",
 		"target": "10:52:1C:69:AF:98"
 	},
+        {
+		"name": "Lampada",
+		"description": "Controle de interrupção da iluminação",
+		"type": "selector",
+		"icon": "bulb",
+		"location": "kitchen",
+		"address": "10:52:1C:69:AF:9A",
+		"target": "10:52:1C:69:AF:98"
+	},
 	{
 		"type": "input",
 		"address": "FF:21:04:25:65:26"
